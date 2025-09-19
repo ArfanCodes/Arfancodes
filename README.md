@@ -1,11 +1,9 @@
-<h1 align="center">Mohammed Arfan</h1>
+<h1 align="center"><b>I am Mohammed Arfan</b></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/App%20Developer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-FF8C00?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  App Developer • Software Engineer • React Native & Node.js
 </p>
+
 
 
 ---
