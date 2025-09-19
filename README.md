@@ -1,15 +1,8 @@
-<h1 align="center">👋 Hi, I'm Mohammed Arfan</h1>
+<h1 align="center">Mohammed Arfan</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center" style="font-size:18px; color:#00BFFF; margin-top:0;">
+  App Developer | Software Engineer | React Native & Node.js
 </p>
-
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=ArfanCodes&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/ArfanCodes?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</div>
 
 ---
 
