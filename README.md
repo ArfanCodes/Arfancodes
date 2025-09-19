@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi, I'm Mohammed Arfan</h1>
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=500&color=00F7FF&width=650&lines=React+Native+Developer;Node.js+Backend+Developer" 
-    alt="Typing SVG" 
-    style="display:block; margin: 0 auto;"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=500&color=00F7FF&width=650&lines=React+Native+Developer;Node.js+Backend+Developer" alt="Typing SVG" />
 </p>
+
 
 
 
