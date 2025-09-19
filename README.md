@@ -1,7 +1,7 @@
 <h1 align="center"><b>I am Mohammed Arfan</b></h1>
 
 <p align="center">
-  App Developer • Software Engineer • React Native & Node.js
+  App Developer • Software Engineer • React Native
 </p>
 
 
