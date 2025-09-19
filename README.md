@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mohammed Arfan</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&width=600&lines=React+Native+Developer;Node.js+Backend+Developer" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=ArfanCodes&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" /> 
