@@ -40,9 +40,12 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-- 🔹 [Habit Tracker App](https://github.com/ArfanCodes/Habit-Tracker-App) – React Native + Appwrite powered habit tracker.  
-- 🔹 [SwiftBytes](https://github.com/ArfanCodes/SwiftBytes) – Inventory & real-time update system with backend in Node.js.
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>🔹 <a href="https://github.com/ArfanCodes/Habit-Tracker-App">Habit Tracker App</a> – React Native + Appwrite powered habit tracker.</li>
+    <li>🔹 <a href="https://github.com/ArfanCodes/SwiftBytes">SwiftBytes</a> – Inventory & real-time update system with backend in Node.js.</li>
+  </ul>
 </div>
+
 
 ---
 
