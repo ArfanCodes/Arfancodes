@@ -11,11 +11,11 @@
 ---
 
 ## 🧠 About Me
-<div>
+
 - 🚀 I’m mainly a **React Native app developer** who loves building smooth and user-friendly mobile apps.  
 - 📱 I’ve worked on creating UIs with **React Native**, and I have some experience with backend stuff using **Node.js** & **JavaScript**.  
 - 🌱 Right now, my main focus is **mobile app development**.
-</div>
+
 
 ---
 
