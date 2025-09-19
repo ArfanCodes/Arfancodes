@@ -21,19 +21,19 @@
 
 ## 🛠 Tech Stack & Tools
 
-**Programming Languages**  
+<p align="center"><b>Programming Languages</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-**Frontend Development**  
+<p align="center"><b>Frontend Development</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
-**Backend Development**  
+<p align="center"><b>Backend Development</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
