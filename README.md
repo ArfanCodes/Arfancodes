@@ -39,22 +39,25 @@
 ---
 ## 📘 My Top Open Source Projects
 
-<p align="left">
+<div align="left">
 
   <a href="https://github.com/ArfanCodes/CropLytics">
-    <img width="278" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=CropLytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF&show_description=true" />
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=CropLytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
   </a>
 
   <a href="https://github.com/ArfanCodes/Habit-Tracker-App">
-    <img width="278" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Habit-Tracker-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF&show_description=true" />
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Habit-Tracker-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
   </a>
 
   <a href="https://github.com/ArfanCodes/SwiftBytes">
-    <img width="278" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF&show_description=true" />
+    <img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
   </a>
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
