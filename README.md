@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" width="120" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ArfanCodes/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?lines=React+Native+App+Developer;Software+Engineer;Full+Stack+Learner;Always+building+cool+things&center=true&width=500&height=45&color=00aaff&pause=1000&size=22" />
   </a>
