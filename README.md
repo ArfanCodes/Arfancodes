@@ -38,17 +38,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📘 My Top Open Source Projects
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/ArfanCodes/Habit-Tracker-App">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Habit-Tracker-App&theme=react&bg_color=1F222E&title_color=00A8FF&hide_border=true&icon_color=F8D866&show_icons=false" />
+  </a>
 
-🔹 **[Habit Tracker App](https://github.com/ArfanCodes/Habit-Tracker-App)**  
-React Native + Appwrite based habit tracker system.
-
-🔹 **[SwiftBytes](https://github.com/ArfanCodes/SwiftBytes)**  
-Inventory management + real-time updates using Node.js backend.
-
-</div>
+  <a href="https://github.com/ArfanCodes/SwiftBytes">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=00A8FF&hide_border=true&icon_color=F8D866&show_icons=false" />
+  </a>
+  </a>
+</p>
 
 ---
 
