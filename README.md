@@ -18,32 +18,17 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
-</a>
+### 🗣️ Languages
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg">
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-<a href="https://reactnative.dev/" target="_blank">
-  <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-</a>
+### ⚙️ Technologies
 
-<a href="https://nodejs.org/" target="_blank">
-  <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg">
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
-</a>
-
-<br/><br/>
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ---
 ## 📘 My Top Open Source Projects
