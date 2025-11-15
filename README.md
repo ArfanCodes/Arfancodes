@@ -19,22 +19,31 @@
 ---
 
 ## 🛠 Tech Stack & Tools
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
+</a>
 
-### **Programming Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg">
+</a>
 
-### **Frontend / Mobile**
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+<a href="https://reactnative.dev/" target="_blank">
+  <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
+</a>
 
-### **Backend**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+<a href="https://nodejs.org/" target="_blank">
+  <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+</a>
+
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
+</a>
+
+<br/><br/>
 
 ---
 ## 📘 My Top Open Source Projects
