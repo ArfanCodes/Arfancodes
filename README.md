@@ -9,12 +9,10 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🚀 I’m a **React Native app developer** focused on building smooth and user-friendly mobile apps.  
-- 🎨 Skilled in **UI development**, component design, and creating responsive app layouts.  
-- ⚙️ Comfortable with backend logic using **Node.js + JavaScript**.  
-- 🌱 Currently learning more about **full-stack mobile development** and real-time applications.
+-  I’m a **React Native app developer** focused on building smooth and user-friendly mobile apps.  
+-  Comfortable with backend logic using **Node.js + JavaScript**.  
 
 ---
 
