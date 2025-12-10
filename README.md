@@ -11,8 +11,8 @@
 
 ## About Me
 
--  I’m a **React Native app developer** focused on building smooth and user-friendly mobile apps.  
--  Comfortable with backend logic using **Node.js + JavaScript**.  
+- I’m a **React Native app developer** focused on building smooth and user-friendly mobile apps.  
+- Comfortable with backend logic using **Node.js + JavaScript**.  
 
 ---
 
@@ -29,11 +29,20 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ---
+
+## 🌐 Portfolio Website
+
+<p>
+Explore my work, experience, and projects in a dedicated portfolio website:  
+<br>
+<a href="https://arfaan.me" target="_blank"><b>https://arfaan.me</b></a>
+</p>
+
+---
+
 ## 📘 My Top Open Source Projects
 
 <div align="left">
-
- </a>
 
   <a href="https://github.com/ArfanCodes/Peso">
     <img width="278"
@@ -66,4 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_ico_
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_icons=true&theme=react&hide_border=true" height="180" />
+</p>
