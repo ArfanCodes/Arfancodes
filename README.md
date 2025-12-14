@@ -20,7 +20,8 @@
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,expo,appwrite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,appwrite" />
+  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" height="48" />
 </p>
 
 ### 🧠 Backend Development
