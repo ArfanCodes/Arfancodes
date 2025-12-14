@@ -16,17 +16,33 @@
 
 ---
 
-### Languages
+## ⚙️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,expo,appwrite" />
+</p>
 
-### ⚙️ Technologies
+### 🧠 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,aws,prisma" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" height="48" />
+</p>
 
 ---
 
