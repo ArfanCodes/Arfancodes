@@ -74,8 +74,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArfanCodes&theme=monokai-metallian&hide_border=true" width="48%" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_icons=true&theme=react&hide_border=true" height="190" />
 </p>
 
 ---
