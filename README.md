@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ArfanCodes/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=React+Native+App+Developer;Software+Engineer&center=true&width=500&height=45&color=00aaff&pause=1000&size=24" />
+    <img src="https://readme-typing-svg.demolab.com?lines=React+Native+App+Developer;Software+Engineer;Full+Stack+Specialist&center=true&width=500&height=45&color=00aaff&pause=1000&size=24" />
   </a>
 </p>
 
@@ -75,6 +75,10 @@
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_icons=true&theme=react&hide_border=true" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfanCodes&theme=react-dark&bg_color=1F222E&hide_border=true&color=00aaff" width="100%" />
 </p>
 
 ---
