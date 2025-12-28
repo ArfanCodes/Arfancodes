@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ArfanCodes/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=React+Native+App+Developer;Software+Engineer;Full+Stack+Specialist&center=true&width=500&height=45&color=00aaff&pause=1000&size=24" />
+    <img src="https://readme-typing-svg.demolab.com?lines=React+Native+App+Developer;Software+Engineer&center=true&width=500&height=45&color=00aaff&pause=1000&size=24" />
   </a>
 </p>
 
