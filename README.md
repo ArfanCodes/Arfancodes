@@ -9,9 +9,6 @@
   <a href="https://arfaan.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://github.com/ArfanCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center"><b>App Developer • Software Engineer</b></p>
