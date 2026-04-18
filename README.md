@@ -51,13 +51,41 @@ Currently working on real-world projects like finance tracking and AI-powered ap
 </p>
 
 ---
+## 🚀 Featured Projects
 
-### Projects
+<div align="center">
 
-- **FINO** → Personal finance tracker with real-time sync (Firebase)
-- **Peso** → AI-based financial insights app (Supabase + React Query)
-- **CropLytics** → AI-powered agriculture assistant (FastAPI + APIs)
+<table border="0">
+<tr>
+<td>
+<a href="https://github.com/ArfanCodes/fino-your-financial-budget-app">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=fino-your-financial-budget-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+</td>
 
+<td>
+<a href="https://github.com/ArfanCodes/Habit-Tracker-App">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Habit-Tracker-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/ArfanCodes/SwiftBytes">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+</td>
+
+<td>
+<a href="https://github.com/ArfanCodes/CropLytics">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=CropLytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ### GitHub Activity
