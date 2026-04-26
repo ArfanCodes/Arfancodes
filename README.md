@@ -86,20 +86,3 @@ Currently working on real-world projects like finance tracking and AI-powered ap
 </table>
 
 </div>
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfanCodes&theme=react-dark&bg_color=1F222E&hide_border=true&color=00aaff&line=00aaff&point=ffffff" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArfanCodes&show_icons=true&theme=react&hide_border=true" height="180"/>
-</p>
-
----
-
-<p align="center">
-  <b><a href="https://arfaan.me">arfaan.me</a></b>
-</p>
