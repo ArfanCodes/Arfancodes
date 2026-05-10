@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://arfaan.me">
-    <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+Native+%7C+Web+%7C+Backend;Building+Scalable%2C+Production-Ready+Apps&center=true&width=500&height=45&color=00aaff&pause=1000&size=22" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+Native+%7C+Web+%7C+Backend;Building+Scalable%2C+Production-Ready+Apps&center=true&width=500&height=45&color=00aaff&pause=1000&size=22" />
 </p>
 
 <h1 align="center">Mohammad Arfan</h1>
@@ -17,9 +15,7 @@
   <a href="mailto:arfaanmohammed56@gmail.com">
     <img src="https://img.shields.io/badge/Email-arfaanmohammed56@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+919030582942">
-    <img src="https://img.shields.io/badge/Phone-9030582942-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
+
 </p>
 
 ---
@@ -36,32 +32,53 @@ Currently serving as **Technical Head at IEEE-CIS, MJCET** and a **Cloud Core Me
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 #### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,expo" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
 </p>
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-EF0082?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 #### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,supabase,aws" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 #### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 ---
