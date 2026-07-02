@@ -24,8 +24,6 @@
 
 Full stack developer focused on building scalable, production-ready applications across web, mobile, and backend systems. Experienced in designing real-time data pipelines, integrating ML services, and shipping complete products — from React Native and React frontends to Firebase and REST API backends.
 
-Currently serving as **Technical Head at IEEE-CIS, MJCET** and a **Cloud Core Member at Google Developer Groups on Campus**. Seeking full stack internship roles where I can contribute to high-impact, end-to-end systems.
-
 ---
 
 ### 🛠 Tech Stack
