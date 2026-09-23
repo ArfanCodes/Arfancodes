@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+Native+%7C+Web+%7C+Backend;Building+Scalable%2C+Production-Ready+Apps&center=true&width=500&height=45&color=00aaff&pause=1000&size=22" />
 </p>
 
-<h1 align="center">Mohammad Arfan</h1>
+<h1 align="center">Mohammed Arfan</h1>
 
 <p align="center">
   <a href="https://arfaan.me" target="_blank">
@@ -14,14 +14,33 @@
   <a href="mailto:arfaanmohammed56@gmail.com">
     <img src="https://img.shields.io/badge/Email-arfaanmohammed56@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
 ### About Me
 
-4th-year Information Technology student and full stack developer focused on building scalable, production-ready applications across web, mobile, and backend systems. Experienced in designing real-time data pipelines, integrating ML services, and shipping complete products — from React Native and React frontends to Azure/Firebase and REST API backends. Currently co-founding **Staffly**, a multi-tenant staff attendance SaaS live-piloting at a Hyderabad school.
+4th-year Information Technology student and full stack developer focused on building scalable, production-ready applications across web, mobile, and backend systems. Experienced in designing real-time data pipelines, integrating ML services, and shipping complete products — from React Native and React frontends to Firebase and REST API backends. Currently co-founding **[Staffly](https://staffly.missionlogs.com)**, a multi-tenant staff attendance SaaS live-piloting at a Hyderabad school.
+
+🔍 Open to **full stack internship** roles where I can contribute to high-impact, end-to-end systems.
+
+---
+
+### 💼 Experience
+
+**Co-Founder & Full-Stack Developer — [Staffly](https://staffly.missionlogs.com)** *(2026 – Present)*
+School staff attendance platform · React (PWA), Node.js/Express, TypeScript, Azure SQL, Bicep, GitHub Actions
+- Multi-tenant staff attendance and leave-management SaaS for K-12 schools; live pilot with 34 staff using biometric check-in daily
+- Phone-OTP auth with rotating refresh-token sessions, role-based access control (teacher / principal / super-admin), and append-only audit logging
+- eSSL biometric integration via a device-push pipeline that classifies punches (on-time / late / early-out) against per-staff schedules
+- CI/CD via GitHub Actions to Azure App Service and Static Web Apps with Bicep IaC; all data hosted in Azure India regions for DPDP compliance
+
+**Technical Head — IEEE-CIS, MJCET** *(Oct 2025 – Jun 2026)*
+- Led technical events and workshops; mentored a team of 7 in web and mobile development
+- Owned end-to-end technical delivery of projects showcased at society events
+
+**Cloud Core Member — Google Developer Groups on Campus, MJCET** *(Nov 2025 – Jun 2026)*
+- Contributed to cloud infrastructure initiatives and supported workshops on cloud-native development
 
 ---
 
@@ -31,6 +50,9 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 #### Mobile
@@ -51,6 +73,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 #### Backend
@@ -61,19 +84,22 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-#### Databases & Cloud
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_SQL_/_SQL_Server-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### DevOps & Tools
+#### Cloud & DevOps
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bicep_(IaC)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -83,24 +109,34 @@
 
 ## 🚀 Featured Projects
 
+**FindMe** — *Google Solution Challenge* · React 19, Firebase, FastAPI, Python, Leaflet, i18next
+- Disaster response platform connecting citizens, NGOs, and rescue operators — missing/found person reports, safe check-ins, and live rescue coordination
+- Real-time Firestore model across 12+ collections with security rules separating anonymous public submissions from authenticated operators
+- FastAPI ML service for profile and face matching, feeding confidence scores to a live rescue dashboard; Leaflet command map and English/Hindi/Telugu UI
+
+**[Peso](https://github.com/ArfanCodes/Peso)** — *🥈 DataNyx Hackathon* · React Native, Supabase, TypeScript, Zustand, React Query
+- Financial analysis app generating AI-backed risk scores and budget predictions from spending patterns
+- Cut redundant network calls by ~40% via optimized Supabase queries and React Query caching
+- Real-time sync with conflict resolution and secure persistence using Supabase Row Level Security
+
 <div align="center">
 <table border="0">
 <tr>
 <td>
-<a href="https://github.com/ArfanCodes/fino-your-financial-budget-app">
-<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=fino-your-financial-budget-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/ArfanCodes/Peso">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Peso&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
 </a>
 </td>
 <td>
-<a href="https://github.com/ArfanCodes/Habit-Tracker-App">
-<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=Habit-Tracker-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/ArfanCodes/SwiftBytes">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/ArfanCodes/SwiftBytes">
-<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=SwiftBytes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/ArfanCodes/fino-your-financial-budget-app">
+<img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArfanCodes&repo=fino-your-financial-budget-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&text_color=FFFFFF" />
 </a>
 </td>
 <td>
@@ -118,6 +154,7 @@
 
 | Award | Event | Organizer | Date |
 |-------|-------|-----------|------|
+| 🥈 2nd Place | HackPrix Season 3 Hackathon | Lords Institute of Engineering and Technology | Jun 2026 |
 | 🥈 2nd Place | DataNyx Hackathon (Project: Peso) | AWS Cloud Club | Nov 2025 |
 | 🥈 2nd Place | Envisage (Project: SwiftBytes) | IEEE-CIS | Jul 2025 |
 
